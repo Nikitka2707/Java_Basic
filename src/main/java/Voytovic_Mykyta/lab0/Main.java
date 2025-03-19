@@ -1,4 +1,4 @@
-package org.example;
+package Voytovic_Mykyta.lab0;
 
 /**
  *Hello world!
