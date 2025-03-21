@@ -1,6 +1,6 @@
 package Voytovic_Mykyta.lab3.main;
 
-import Voytovic_Mykyta.lab3.element.*;
+import Voytovic_Mykyta.lab3.model.*;
 import Voytovic_Mykyta.lab3.controller.*;
 
 public class Run {

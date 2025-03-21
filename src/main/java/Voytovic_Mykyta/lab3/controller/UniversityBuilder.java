@@ -1,9 +1,9 @@
 package Voytovic_Mykyta.lab3.controller;
 
-import Voytovic_Mykyta.lab3.element.Student;
-import Voytovic_Mykyta.lab3.element.Person;
-import Voytovic_Mykyta.lab3.element.Faculty;
-import Voytovic_Mykyta.lab3.element.University;
+import Voytovic_Mykyta.lab3.model.Student;
+import Voytovic_Mykyta.lab3.model.Person;
+import Voytovic_Mykyta.lab3.model.Faculty;
+import Voytovic_Mykyta.lab3.model.University;
 
 
 import java.util.List;

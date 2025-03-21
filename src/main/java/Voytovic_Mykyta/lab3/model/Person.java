@@ -1,4 +1,4 @@
-package Voytovic_Mykyta.lab3.element;
+package Voytovic_Mykyta.lab3.model;
 
 // Абстрактний клас особи
 public abstract class Person {

@@ -1,8 +1,8 @@
 package Voytovic_Mykyta.lab3.controller;
 
-import Voytovic_Mykyta.lab3.element.Student;
-import Voytovic_Mykyta.lab3.element.Person;
-import Voytovic_Mykyta.lab3.element.Group;
+import Voytovic_Mykyta.lab3.model.Student;
+import Voytovic_Mykyta.lab3.model.Person;
+import Voytovic_Mykyta.lab3.model.Group;
 
 import java.util.Arrays;
 import java.util.List;
