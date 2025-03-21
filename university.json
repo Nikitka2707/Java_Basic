@@ -1,0 +1,144 @@
+{
+  "faculties": [
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "name": "James",
+                  "surname": "Smith",
+                  "patronymic": "",
+                  "gender": "MALE"
+                },
+                {
+                  "name": "Olivia",
+                  "surname": "Johnson",
+                  "patronymic": "",
+                  "gender": "FEMALE"
+                }
+              ],
+              "title": "AI-301",
+              "director": {
+                "name": "James",
+                "surname": "Smith",
+                "patronymic": "",
+                "gender": "MALE",
+                "category": "Student"
+              }
+            },
+            {
+              "students": [
+                {
+                  "name": "Lucas",
+                  "surname": "Brown",
+                  "patronymic": "",
+                  "gender": "MALE"
+                },
+                {
+                  "name": "Emma",
+                  "surname": "Williams",
+                  "patronymic": "",
+                  "gender": "FEMALE"
+                }
+              ],
+              "title": "AI-302",
+              "director": {
+                "name": "Lucas",
+                "surname": "Brown",
+                "patronymic": "",
+                "gender": "MALE",
+                "category": "Student"
+              }
+            }
+          ],
+          "title": "Artificial Intelligence",
+          "director": {
+            "name": "Dr. Sophia",
+            "surname": "Taylor",
+            "patronymic": "",
+            "gender": "FEMALE",
+            "category": "Student"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "name": "Charlotte",
+                  "surname": "Miller",
+                  "patronymic": "",
+                  "gender": "FEMALE"
+                },
+                {
+                  "name": "Daniel",
+                  "surname": "Moore",
+                  "patronymic": "",
+                  "gender": "MALE"
+                }
+              ],
+              "title": "CS-401",
+              "director": {
+                "name": "Charlotte",
+                "surname": "Miller",
+                "patronymic": "",
+                "gender": "FEMALE",
+                "category": "Student"
+              }
+            },
+            {
+              "students": [
+                {
+                  "name": "Henry",
+                  "surname": "Taylor",
+                  "patronymic": "",
+                  "gender": "MALE"
+                },
+                {
+                  "name": "Sophia",
+                  "surname": "Anderson",
+                  "patronymic": "",
+                  "gender": "FEMALE"
+                }
+              ],
+              "title": "CS-402",
+              "director": {
+                "name": "Henry",
+                "surname": "Taylor",
+                "patronymic": "",
+                "gender": "MALE",
+                "category": "Student"
+              }
+            }
+          ],
+          "title": "Cybersecurity",
+          "director": {
+            "name": "Dr. Robert",
+            "surname": "Davis",
+            "patronymic": "",
+            "gender": "MALE",
+            "category": "Student"
+          }
+        }
+      ],
+      "title": "Computer Science",
+      "director": {
+        "name": "Dr. Emily",
+        "surname": "White",
+        "patronymic": "",
+        "gender": "FEMALE",
+        "category": "Student"
+      }
+    }
+  ],
+  "title": "Global Tech University",
+  "director": {
+    "name": "Michael",
+    "surname": "Anderson",
+    "patronymic": "",
+    "gender": "MALE",
+    "category": "Student"
+  }
+}
