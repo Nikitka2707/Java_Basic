@@ -1,7 +1,7 @@
-package Voytovic_Mykyta.lab3.main;
+package Voytovic_Mykyta.lab4.main;
 
-import Voytovic_Mykyta.lab3.model.*;
-import Voytovic_Mykyta.lab3.controller.*;
+import Voytovic_Mykyta.lab4.model.*;
+import Voytovic_Mykyta.lab4.controller.*;
 
 public class Run {
     public static void main(String[] args) {

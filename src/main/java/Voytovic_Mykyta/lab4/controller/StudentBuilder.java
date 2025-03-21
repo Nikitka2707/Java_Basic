@@ -1,7 +1,7 @@
-package Voytovic_Mykyta.lab3.controller;
+package Voytovic_Mykyta.lab4.controller;
 
-import Voytovic_Mykyta.lab3.model.Student;
-import Voytovic_Mykyta.lab3.model.Person;
+import Voytovic_Mykyta.lab4.model.Student;
+import Voytovic_Mykyta.lab4.model.Person;
 
 // Клас для створення студента
 public class StudentBuilder {
